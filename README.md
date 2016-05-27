@@ -25,3 +25,7 @@ public static bool sendSomething
 ```
 
 Any isues let me know via e-mail dan[at]confluence-software.co.uk
+
+#License
+
+Just do whatever you want with it. No need to credit me either.
